@@ -27,3 +27,22 @@ We have put demo data in folder "_./dataset_", hence you can run file "_*Enh_tra
 
 ### Start a test with pre-trained model
 If you want to use the pre-trained model for testing, please read the following content about data settings. After that, run file "*Enh_eval.py" in folder "./scripts".
+
+## Training 
+### 1. Put your dataset into your folder storing data (for example "_./dataset/demo_data_Enh_") as follows:
+_SWIM-TRANSFORMER-BASED-UNDERWATER-IMAGE-ENHANCEMENT_<br />
+├─ other files and folders<br />
+├─ _dataset_<br />
+│&ensp;&ensp;├─ _demo\_data\_Enh_<br />
+│&ensp;&ensp;│&ensp;&ensp;├─ _train\_data_<br />
+│&ensp;&ensp;│&ensp;&ensp;│&ensp;&ensp;├─ _input_<br />
+│&ensp;&ensp;│&ensp;&ensp;│&ensp;&ensp;│&ensp;&ensp;├─ _fig1.png_<br />
+│&ensp;&ensp;│&ensp;&ensp;│&ensp;&ensp;│&ensp;&ensp;├─ ...<br />
+│&ensp;&ensp;│&ensp;&ensp;│&ensp;&ensp;├─ _target_<br />
+│&ensp;&ensp;│&ensp;&ensp;│&ensp;&ensp;│&ensp;&ensp;├─ _fig1.png_<br />
+│&ensp;&ensp;│&ensp;&ensp;│&ensp;&ensp;│&ensp;&ensp;├─ ...<br />
+│&ensp;&ensp;│&ensp;&ensp;├─ _val\_data_<br />
+│&ensp;&ensp;│&ensp;&ensp;│&ensp;&ensp;│&ensp;&ensp;├─ ...<br />
+│&ensp;&ensp;│&ensp;&ensp;├─ _test\_data_<br />
+│&ensp;&ensp;│&ensp;&ensp;│&ensp;&ensp;│&ensp;&ensp;├─ ...
+
