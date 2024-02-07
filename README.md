@@ -46,3 +46,6 @@ _SWIM-TRANSFORMER-BASED-UNDERWATER-IMAGE-ENHANCEMENT_<br />
 │&ensp;&ensp;│&ensp;&ensp;├─ _test\_data_<br />
 │&ensp;&ensp;│&ensp;&ensp;│&ensp;&ensp;│&ensp;&ensp;├─ ...
 
+### 2. Configure the _configs/\*.yaml_:
+If you want to train with the default setting, _\*\_DIR_ of _TRAINING_ and _TEST_ is the main option you need to edit.
+
