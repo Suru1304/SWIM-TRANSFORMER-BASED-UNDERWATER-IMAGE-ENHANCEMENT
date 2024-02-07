@@ -54,3 +54,22 @@ _SWIM-TRANSFORMER-BASED-UNDERWATER-IMAGE-ENHANCEMENT_<br />
 
 ## Testing
 
+### 1. As reported above, put your dataset for testing and model we provided into the folders as follows:
+_SWIM-TRANSFORMER-BASED-UNDERWATER-IMAGE-ENHANCEMENT_<br />
+├─ other files and folders<br />
+├─ _exps_<br />
+│&ensp;&ensp;├─ _quickstart\_Enh_ (same as configurated above)<br />
+│&ensp;&ensp;│&ensp;&ensp;├─ _models_<br />
+│&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;&ensp;├─ _model\_bestSSIM.pth_ (downloaded model)<br />
+├─ _dataset_<br />
+│&ensp;&ensp;├─ _demo_data_Enh_<br />
+│&ensp;&ensp;│&ensp;&ensp;├─ _train\_data_<br />
+│&ensp;&ensp;│&ensp;&ensp;├─ _val\_data_<br />
+│&ensp;&ensp;│&ensp;&ensp;├─ _test\_data_<br />
+│&ensp;&ensp;│&ensp;&ensp;│&ensp;&ensp;├─ _input_<br />
+│&ensp;&ensp;│&ensp;&ensp;│&ensp;&ensp;│&ensp;&ensp;├─ _fig1.png_<br />
+│&ensp;&ensp;│&ensp;&ensp;│&ensp;&ensp;│&ensp;&ensp;├─ ...<br />
+│&ensp;&ensp;│&ensp;&ensp;│&ensp;&ensp;├─ _target_<br />
+│&ensp;&ensp;│&ensp;&ensp;│&ensp;&ensp;│&ensp;&ensp;├─ _fig1.png_<br />
+│&ensp;&ensp;│&ensp;&ensp;│&ensp;&ensp;│&ensp;&ensp;├─ ...<br />
+
