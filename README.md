@@ -1,4 +1,4 @@
-# Swin Transformer Underwater Image Enhancement: Reinforced Swin-Convs Transformer for Simultaneous Underwater Sensing Scene Image Enhancement
+# Swin Transformer Underwater Image Enhancement: Reinforced Swin-Convs Transformer for Simultaneous Underwater Image Enhancement
 
 
 ---
@@ -7,7 +7,7 @@
 [ <a href="https://colab.research.google.com/drive/1vkkVz_ZYtqGHsPT97HXOAsNWVRhbLIds?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>](https://colab.research.google.com/drive/1vkkVz_ZYtqGHsPT97HXOAsNWVRhbLIds)
 
 
-This repository is the PyTorch implementation of Swin Transformer Underwater Image Enhancement: Reinforced Swin-Convs Transformer for Simultaneous Underwater Sensing Scene Image Enhancement
+This repository is the PyTorch implementation of Swin Transformer Underwater Image Enhancement: Reinforced Swin-Convs Transformer for Simultaneous Underwater Image Enhancement
 <img width="1000" src="Swin network.png">
 
 ## Contents
@@ -48,4 +48,4 @@ _SWIM-TRANSFORMER-BASED-UNDERWATER-IMAGE-ENHANCEMENT_<br />
 
 ### 2. Configure the _configs/\*.yaml_:
 If you want to train with the default setting, _\*\_DIR_ of _TRAINING_ and _TEST_ is the main option you need to edit 
-"*Enh_opt.yaml" for Underwater Sensing Scene Image Enhancement.
+"*Enh_opt.yaml" for Underwater Image Enhancement.
