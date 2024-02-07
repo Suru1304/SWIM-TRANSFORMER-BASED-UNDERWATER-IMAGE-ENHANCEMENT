@@ -13,7 +13,7 @@ This repository is the PyTorch implementation of Swin Transformer Underwater Ima
 ## Contents
 
 1. [QucikStart](#QuickStart)
-1. [Training](#Training)
-2. [Testing](#Testing)
-3. [Download](#Download)
-4. [Citation](#Citation)
+2. [Training](#Training)
+3. [Testing](#Testing)
+4. [Download](#Download)
+5. [Citation](#Citation)
