@@ -17,3 +17,10 @@ This repository is the PyTorch implementation of Swin Transformer Underwater Ima
 3. [Testing](#Testing)
 4. [Download](#Download)
 5. [Citation](#Citation)
+
+
+## QuickStart
+### Attention: Please ensure the pytorch version be same with requirements.txt
+
+### Start a custom training
+We have put demo data in folder "_./dataset_", hence you can run file "_*\Enh_train.py_" in  folder "_./scripts_".
