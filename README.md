@@ -4,6 +4,7 @@
 ---
 
 
+For Demo use model click on this icon:
 [ <a href="https://colab.research.google.com/drive/1vkkVz_ZYtqGHsPT97HXOAsNWVRhbLIds?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>](https://colab.research.google.com/drive/1vkkVz_ZYtqGHsPT97HXOAsNWVRhbLIds)
 
 
