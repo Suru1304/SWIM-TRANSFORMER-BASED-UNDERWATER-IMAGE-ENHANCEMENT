@@ -48,4 +48,4 @@ _SWIM-TRANSFORMER-BASED-UNDERWATER-IMAGE-ENHANCEMENT_<br />
 
 ### 2. Configure the _configs/\*.yaml_:
 If you want to train with the default setting, _\*\_DIR_ of _TRAINING_ and _TEST_ is the main option you need to edit 
-"*Enh_opt.yaml* for Underwater Sensing Scene Image Enhancement.
+"*Enh_opt.yaml" for Underwater Sensing Scene Image Enhancement.
