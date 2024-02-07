@@ -23,7 +23,7 @@ This repository is the PyTorch implementation of Swin Transformer Underwater Ima
 ### Attention: Please ensure the pytorch version be same with requirements.txt
 
 ### Start a custom training
-We have put demo data in folder "_./dataset_", hence you can run file "_*Enh_train.py_" in  folder "_./scripts_".
+We have put demo data in folder "_./dataset_", hence you can run file "*Enh_train.py_" in  folder "_./scripts_".
 
 ### Start a test with pre-trained model
 If you want to use the pre-trained model for testing, please read the following content about data settings. After that, run file "*Enh_eval.py" in folder "./scripts".
@@ -47,6 +47,5 @@ _SWIM-TRANSFORMER-BASED-UNDERWATER-IMAGE-ENHANCEMENT_<br />
 │&ensp;&ensp;│&ensp;&ensp;│&ensp;&ensp;│&ensp;&ensp;├─ ...
 
 ### 2. Configure the _configs/\*.yaml_:
-If you want to train with the default setting, _\*\_DIR_ of _TRAINING_ and _TEST_ is the main option you need to edit.
-
- Enh_opt.yaml for Underwater Sensing Scene Image Enhancement only
+If you want to train with the default setting, _\*\_DIR_ of _TRAINING_ and _TEST_ is the main option you need to edit 
+"*Enh_opt.yaml* for Underwater Sensing Scene Image Enhancement.
