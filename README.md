@@ -47,5 +47,5 @@ _SWIM-TRANSFORMER-BASED-UNDERWATER-IMAGE-ENHANCEMENT_<br />
 │&ensp;&ensp;│&ensp;&ensp;│&ensp;&ensp;│&ensp;&ensp;├─ ...
 
 ### 2. Configure the _configs/\*.yaml_:
-If you want to train with the default setting, _\*\_DIR_ of _TRAINING_ and _TEST_ is the main option you need to edit 
-"*Enh_opt.yaml" for Underwater Image Enhancement.
+1. Run with Default settings
+2. Change config according to your requirement in file "*Enh_opt.yaml" in folder "_./configs_".
