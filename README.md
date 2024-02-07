@@ -50,7 +50,7 @@ _SWIM-TRANSFORMER-BASED-UNDERWATER-IMAGE-ENHANCEMENT_<br />
 (1) Run with Default settings
 (2) Change config according to your requirement in file "*Enh_opt.yaml" in folder "_./configs_".
 
-### 3. Run scripts/*_train.py
+### 3. Run scripts/*Enh_train.py
 
 ## Testing
 
@@ -73,5 +73,11 @@ _SWIM-TRANSFORMER-BASED-UNDERWATER-IMAGE-ENHANCEMENT_<br />
 │&ensp;&ensp;│&ensp;&ensp;│&ensp;&ensp;│&ensp;&ensp;├─ _fig1.png_<br />
 │&ensp;&ensp;│&ensp;&ensp;│&ensp;&ensp;│&ensp;&ensp;├─ ...<br />
 
-### 2. Run _scripts/\*\ Enh_eval.py_
+### 2. Run scripts/*Enh_eval.py
+
+
+## Download
+
+### Pre- Trained Model
+[GoogleDrive](https://drive.google.com/file/d/1PMl5TaTmIM6owise3gmXCiX3uAWoZBoC/view?usp=sharing)
 
