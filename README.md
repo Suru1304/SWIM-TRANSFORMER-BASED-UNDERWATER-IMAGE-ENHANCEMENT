@@ -81,6 +81,7 @@ _SWIM-TRANSFORMER-BASED-UNDERWATER-IMAGE-ENHANCEMENT_<br />
 ### Pre- Trained Model
 [GoogleDrive](https://drive.google.com/file/d/1PMl5TaTmIM6owise3gmXCiX3uAWoZBoC/view?usp=sharing)
 
-### Datasets
-
+### Datasets 
+(1) UIEB [DATA](https://www.kaggle.com/datasets/larjeck/uieb-dataset-raw)
+(2) EUVP [DATA](https://www.kaggle.com/datasets/pamuduranasinghe/euvp-dataset)
 
