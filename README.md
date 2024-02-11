@@ -48,6 +48,7 @@ _SWIM-TRANSFORMER-BASED-UNDERWATER-IMAGE-ENHANCEMENT_<br />
 
 ### 2. Configure the _configs/\*.yaml_:
 (1) Run with Default settings
+
 (2) Change config according to your requirement in file "*Enh_opt.yaml" in folder "_./configs_".
 
 ### 3. Run scripts/*Enh_train.py
